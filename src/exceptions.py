@@ -1,4 +1,5 @@
 import sys
+from src.loger import logging
 
 def error_message_detail(error,error_message:sys):
     _,_,exc_tb = error_datails.exc_indo()
