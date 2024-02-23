@@ -1,1 +1,1 @@
-"# ml-project" 
+This project involves developing a machine learning model to predict student performance using various factors. After selecting the best-performing model, it will be deployed on Amazon Web Services (AWS) for scalable inference. The model will enable real-time predictions, facilitating timely interventions to support student success.
